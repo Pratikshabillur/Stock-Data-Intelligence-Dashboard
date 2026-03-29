@@ -1,14 +1,5 @@
-<<<<<<< HEAD
 fastapi
 uvicorn
 pandas
 yfinance
 requests
-=======
-fastapi
-uvicorn
-pandas
-yfinance
-requests
-sklearn
->>>>>>> fb497c35f163bbdc55299408e1397899674d5c50
