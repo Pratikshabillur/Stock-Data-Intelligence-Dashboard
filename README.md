@@ -19,7 +19,7 @@ them through an interactive dashboard.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/stock_dashboard.git
+git clone https://github.com/Pratikshabillur/Stock-Data-Intelligence-Dashboard.git
 cd stock_dashboard
 ```
 
