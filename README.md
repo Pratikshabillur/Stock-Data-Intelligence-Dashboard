@@ -94,7 +94,7 @@ TCS · INFY · RELIANCE · HDFCBANK · WIPRO · ICICIBANK · SBIN
 - **Caching** — All stock data cached for 10 minutes in memory,
   eliminates repeated API calls and speeds up response time
 -
-- **Deployment** — Live at: https://YOUR-URL.onrender.com
+- **Deployment** — Live at: https://pratikshabillur.github.io/Stock-Data-Intelligence-Dashboard/
 
 ## Project Structure
 ```
